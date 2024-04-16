@@ -24,7 +24,7 @@ Always learning and eager to find new ways to solve problems.
 ### 🛠️ Languages and Tools :
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg]" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://en.wikipedia.org/wiki/Tailwind_CSS#/media/File:Tailwind_CSS_logo.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
