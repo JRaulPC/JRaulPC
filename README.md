@@ -27,7 +27,7 @@ Always learning and eager to find new ways to solve problems.
 <img src="https://s1.qwant.com/thumbr/0x380/2/0/60cbb94d05acd6c0931c6d0279f1b4cb67b87803865f7f11a8d8d5925293e0/nextjs-drupal.jpg?u=https%3A%2F%2Fwww.drupal.org%2Ffiles%2Fproject-images%2Fnextjs-drupal.jpg&q=0&b=1&p=0&a=0" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://en.wikipedia.org/wiki/Tailwind_CSS#/media/File:Tailwind_CSS_logo.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+<img src="https://s1.qwant.com/thumbr/0x380/9/e/62ced82a4b2facd6dc3adf0b1ccfb245c08fd26e7e9d31ff4faabe048bc14f/tailwind-css-1024.png?u=https%3A%2F%2Flogospng.org%2Fdownload%2Ftailwind-css%2Ftailwind-css-1024.png&q=0&b=1&p=0&a=0" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
