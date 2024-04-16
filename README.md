@@ -24,7 +24,7 @@ Always learning and eager to find new ways to solve problems.
 ### 🛠️ Languages and Tools :
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+<img src="https://s1.qwant.com/thumbr/0x380/2/0/60cbb94d05acd6c0931c6d0279f1b4cb67b87803865f7f11a8d8d5925293e0/nextjs-drupal.jpg?u=https%3A%2F%2Fwww.drupal.org%2Ffiles%2Fproject-images%2Fnextjs-drupal.jpg&q=0&b=1&p=0&a=0" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://en.wikipedia.org/wiki/Tailwind_CSS#/media/File:Tailwind_CSS_logo.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
