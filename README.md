@@ -24,8 +24,10 @@ Always learning and eager to find new ways to solve problems.
 ### 🛠️ Languages and Tools :
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg]" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://en.wikipedia.org/wiki/Tailwind_CSS#/media/File:Tailwind_CSS_logo.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
