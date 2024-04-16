@@ -11,8 +11,7 @@
 ---
 
 ### 👨🏻‍💻 About Me :
-
-I'm a full stack web developer, specialized on React / Redux + NodeJs / MongoDb
+Hi! I'm a full stack web developer, specialized on React / NextJS / Redux / Node.js / MongoDB
 Always learning and eager to find new ways to solve problems.
 
 </div>
